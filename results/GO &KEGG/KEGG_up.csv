@@ -1,0 +1,9 @@
+term,Name,Count,padj,TargetSize
+ko00380,Tryptophan metabolism,5,3.05e-4,84
+ko00966,Glucosinolate biosynthesis,3,0.00319,84
+ko01210,2-Oxocarboxylic acid metabolism,3,0.0219,84
+ko00310,Lysine degradation,2,0.0371,84
+ko00330,Arginine and proline metabolism,2,0.0374,84
+ko00940,Phenylpropanoid biosynthesis,3,0.0198,84
+ko00941,Flavonoid biosynthesis,3,0.0198,84
+ko04141,Protein processing in endoplasmic reticulum,6,0.01236431,84
