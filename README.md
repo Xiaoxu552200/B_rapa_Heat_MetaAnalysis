@@ -24,3 +24,7 @@
 
 ## 联系方式
 徐彦泙 - 22316191@zju.edu.cn
+### 数据获取
+
+大文件已上传至 Zenodo：
+> https://zenodo.org/record/8411138](https://zenodo.org/records/22236209
